@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/journal-app/static/css/main.e3d616d0.css",
+    "main.js": "/journal-app/static/js/main.b24b2161.js",
+    "index.html": "/journal-app/index.html",
+    "main.e3d616d0.css.map": "/journal-app/static/css/main.e3d616d0.css.map",
+    "main.b24b2161.js.map": "/journal-app/static/js/main.b24b2161.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3d616d0.css",
+    "static/js/main.b24b2161.js"
+  ]
+}
