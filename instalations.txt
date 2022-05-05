@@ -1,0 +1,14 @@
+sec 18: JournalApp - SASS - Estructura y dise;o
+
+yarn add node-sass
+yarn add react-router-dom
+https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css
+
+sec 20: Introduccion a Redux y autenticacion en Firebase
+
+yarn add react-redux redux
+yarn add firebase@8.10.0
+yarn add redux-thunk
+npm i validator
+
+npm install sweetalert2
